@@ -1,0 +1,1 @@
+//save input as variables
